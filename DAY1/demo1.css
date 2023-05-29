@@ -1,0 +1,40 @@
+body{
+    background-color: brown;
+}
+
+
+
+p{
+    color:red;
+    background-color: blueviolet;
+}
+
+h1{
+    color:aquamarine;
+    /* height: 40%;
+    width: 40%; */
+    /* height: 250px;
+    width: 450px; */
+}
+ 
+h2{
+    color:blue
+}
+
+
+.p-background{
+    background-color: brown;
+}
+
+
+#h2-bg{
+    background-color: aqua ;
+}
+
+.p-color{
+    color: aqua;
+}
+
+.span-bg{
+    background-color: aqua ; 
+}
