@@ -1,0 +1,45 @@
+*{
+    margin: 0;
+}
+
+.div-flex{
+    display: flex;
+    align-items: center;
+    justify-content: center; 
+    height: 100vh;
+    background-color: lightgray;
+    /* position: relative; */
+}
+
+.div-flex-first{
+ width: 20vw;
+ 
+ background-color: aquamarine;
+}
+
+.div-flex-second{
+    width: 20vw;
+    margin: 20px 30px 10px 5px;
+ /* top right bottom left */
+    background-color: lightsalmon;
+}
+
+.div-flex-third{
+    width: 20vw;
+    background-color: lightskyblue;
+}
+
+.navsection{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 15vh;
+    background-color: lightgreen;
+    /* position: static; */
+
+}
+
+.footersection{
+    height: 15vh;
+    background-color: lightseagreen;
+}

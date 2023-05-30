@@ -1,0 +1,19 @@
+.divclass{
+    height: 50vh;
+    width: 50vw;
+    background-color: aqua;
+}
+
+.img-bg{
+height: 400px;
+width: 400px;
+background-image: url("https://picsum.photos/300") ;
+color: red;
+font-size: x-large;
+font-family: fantasy;
+background-repeat: no-repeat;
+}
+
+.p-color {
+    color: blue;
+  }

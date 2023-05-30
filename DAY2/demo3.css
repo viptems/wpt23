@@ -1,0 +1,36 @@
+.box1{
+    height: 25vh; 
+    width: 25vw;
+    background-color: aqua
+    
+}
+
+.box2{
+    height: 25vh; 
+    width: 25vw;
+    background-color: lightcoral
+}
+
+.box3{
+    height: 25vh; 
+    width: 25vw;
+    background-color: aqua
+}
+
+.box4{
+    height: 25vh; 
+    width: 25vw;
+    background-color: lightcoral
+}
+
+.box5{
+    height: 30vh; 
+    width: 30vw;
+    background-color: lightcoral
+}
+
+.box6{
+    height: 50vh; 
+    width: 50vw;
+    background-color: lightcoral
+}

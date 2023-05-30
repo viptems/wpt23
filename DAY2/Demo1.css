@@ -1,0 +1,60 @@
+html {
+    font-size: 10px;
+    font-family: 'Open Sans', sans-serif;
+  }
+  
+  
+  h1 {
+    font-size: 60px;
+    text-align: center;
+  }
+  
+  p, li {
+    font-size: 16px;
+    line-height: 2;
+    letter-spacing: 1px;
+  }
+  
+  
+  html {
+    background-color: #00539F;
+  }
+  
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: #fff123;
+    padding: 0 20px 40px 20px; 
+    /* top right bottm left */
+    border: 5px solid black;
+  }
+  
+  h1 {
+    margin: 0;
+    padding: 20px 0;
+    color: #00539F;
+    text-shadow: 3px 3px 1px black;
+  }
+  
+  img {
+    display: block;
+    margin: 0 auto;
+  }
+
+p > a{
+
+    color: red;
+
+}
+/* children */
+
+
+/* adjecent tag */
+
+div + p + ul , div + p > img{
+    color: rgb(255, 4, 4);
+}
+
+div + p > img {
+    color: rgb(217, 10, 224);
+    }
